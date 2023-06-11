@@ -22,9 +22,10 @@
 
 |     PROGRAMMING LENGUAGES     |     PRINCIPAL TOOLS     |     NEXT...     |
 |:-----------------------------:|:-----------------------:|:---------------:|
-|[![Python](https://www.python.org/static/img/python-logo.png)](https://www.python.org){:height="50px"}
-|
-|
+|[![Python](https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png)](https://www.python.org) |
+|[![MySQL]()](https://www.mysql.com)
+|[![Java]()](https://www.oracle.com/es/java/technologies/downloads/)
+|[![R]()](https://www.r-project.org)
 
 ## PROJECTS
 
