@@ -22,10 +22,16 @@
 
 |     PROGRAMMING LENGUAGES     |     PRINCIPAL TOOLS     |     NEXT...     |
 |:-----------------------------:|:-----------------------:|:---------------:|
-|[![Python](https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png)](https://www.python.org) |
-|[![MySQL]()](https://www.mysql.com)
-|[![Java]()](https://www.oracle.com/es/java/technologies/downloads/)
-|[![R]()](https://www.r-project.org)
+|[![Python](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/python.png)](https://www.python.org) | [![Matplotlib](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/matplotlib.svg)](https://matplotlib.org) | [![javascript](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/js.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+|[![MySQL](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/mysql.png)](https://www.mysql.com) | [![pandas](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/pandas.svg)](https://pandas.pydata.org) | [![ruby](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/ruby.png)](https://www.ruby-lang.org/en/)
+|[![Java](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/Java.png)](https://www.oracle.com/es/java/technologies/downloads/) | [![numpy](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/numpy.svg)](https://numpy.org)
+|[![R](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/R.png)](https://www.r-project.org) | [![seaborn](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/sns.svg)](https://seaborn.pydata.org)
+|[![html](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![sklearn](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/sklearn.png)](https://scikit-learn.org/stable/)
+|[![php](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/php.svg)](https://www.php.net/manual/es/intro-whatis.php) | [![keras](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/keras.png)](https://keras.io)
+|[![xml](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/xml.png)](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction) | [![dia](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/dia.png)](http://dia-installer.de/index.html.es)
+||[![papyrus](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/papyrus.png)](https://www.eclipse.org/papyrus/components/designer/)
+
+[![]()]()
 
 ## PROJECTS
 
@@ -38,12 +44,4 @@
 ## CONTACT ME
 
 ## RECENT POST
-
-# Skills
-
-| Programming Languages | Tools and Libraries | Future Languages to Learn |
-|:---------------------:|:------------------:|:------------------------:|
-| <img src="https://www.python.org/static/img/python-logo.png" width="100px"> | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="100px"> | <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" width="100px"> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" width="100px"> | <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="100px"> | <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="100px"> |
-| <img src="https://upload.wikimedia.org/wikipedia/de/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" width="100px"> | <img src="https://jupyter.org/assets/nav_logo.svg" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/512px-Kotlin-logo.svg.png" width="100px"> |
 
