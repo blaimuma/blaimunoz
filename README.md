@@ -22,28 +22,35 @@
 
 ---
 <div align="center">
- <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="(https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/python.png" alt="Python" height="50" /></a>
- <a href="https://www.mysql.com" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/mysql.png" alt="MySQL" height=50" /></a>
- <a href="https://www.oracle.com/es/java/technologies/downloads/" target="_blank"><img style="margin: 50px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/Java.png" alt="Java" height="50" /></a>
- <a href="(https://www.r-project.org" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/R.png" alt="R" height="50" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/html.png" alt="html" height="50" /></a>
- <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/php.svg" alt="php" height="50" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/xml.png)" alt="xml" height="50" /></a>
+ <div>
+    <h3>PROGRAMMING LANGUAGES</h3>
+    <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="(https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/python.png" alt="Python" height="50" /></a>
+    <a href="https://www.mysql.com" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/mysql.png" alt="MySQL" height=50" /></a>
+    <a href="https://www.oracle.com/es/java/technologies/downloads/" target="_blank"><img style="margin: 50px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/Java.png" alt="Java" height="50" /></a>
+    <a href="(https://www.r-project.org" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/R.png" alt="R" height="50" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/html.png" alt="html" height="50" /></a>
+    <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/php.svg" alt="php" height="50" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/xml.png)" alt="xml" height="50" /></a>
+  </div>
+  <div>
+     <h3>PRINCIPAL TOOLS</h3>
+     <a href="https://matplotlib.org" target="_blank"><img style="margin: 10px" src="(https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/matplotlib.svg" alt="Matplotlib" height="50" /></a>
+    <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/pandas.svg" alt="Pandas" height=50" /></a>
+    <a href="https://numpy.org" target="_blank"><img style="margin: 50px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/numpy.svg" alt="Numpy" height="50" /></a>
+    <a href="(https://seaborn.pydata.org" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/sns.svg" alt="Seaborn" height="50" /></a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/sklearn.png" alt="sklearn" height="50" /></a>
+    <a href="https://keras.io" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/keras.png" alt="keras" height="50" /></a>
+    <a href="https://www.digi.com/resources/documentation/Digidocs/90001399-13/concepts/c-dia-software.htm" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/dia.png)" alt="dia" height="50" /></a>
+    <a href="https://www.eclipse.org/papyrus/components/designer/" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/papyrus.png)" alt="papyrus" height="50" /></a>
+  </div>
+  <div>
+    <h3>NEXT...</h3>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/js.png)" alt="JavaScript" height="50" /></a>
+    <a href="https://www.ruby-learn.org/en/" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/ruby.png)" alt="ruby" height="50" /></a>
+   <hr />
+  </div>
  </div>
 
-<!--
-|     PROGRAMMING LENGUAGES     |     PRINCIPAL TOOLS     |     NEXT...     |
-|:-----------------------------:|:-----------------------:|:---------------:|
-|[![Python](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/python.png)](https://www.python.org) | [![Matplotlib](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/matplotlib.svg)](https://matplotlib.org) | [![javascript](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/js.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-|[![MySQL](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/mysql.png)](https://www.mysql.com) | [![pandas](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/pandas.svg)](https://pandas.pydata.org) | [![ruby](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/ruby.png)](https://www.ruby-lang.org/en/)
-|[![Java](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/Java.png)](https://www.oracle.com/es/java/technologies/downloads/) | [![numpy](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/numpy.svg)](https://numpy.org)
-|[![R](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/R.png)](https://www.r-project.org) | [![seaborn](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/sns.svg)](https://seaborn.pydata.org)
-|[![html](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![sklearn](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/sklearn.png)](https://scikit-learn.org/stable/)
-|[![php](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/php.svg)](https://www.php.net/manual/es/intro-whatis.php) | [![keras](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/keras.png)](https://keras.io)
-|[![xml](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/xml.png)](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction) | [![dia](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/dia.png)](http://dia-installer.de/index.html.es)
-||[![papyrus](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/papyrus.png)](https://www.eclipse.org/papyrus/components/designer/)
-
--->
 ## PROJECTS
  - [Python](./python)
       - [Supervised Learning](./python/supervised): Directory that contains my projects completed during my Master's program in Data Science. 
@@ -52,9 +59,6 @@
  - [Java](./java)
 
  <!-- MAKE IT SWITCHABLE!
-
-
-
 <details>
   <summary>Level 1</summary>
 DESCRIPTION
