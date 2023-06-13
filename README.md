@@ -16,8 +16,7 @@
    - [MY SKILLS](#my-skills)
    - [PROJECTS](#projects)
    - [EDUCATION](#education)
-   - [INTERESTS](#interests)
-   - [OTHERS](#others)
+   - [CANOEING](#canoeing)
    - [CONTACT ME](#contact-me)
    - [RECENT POST](#recent-post)
 <br>
