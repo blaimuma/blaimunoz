@@ -103,4 +103,5 @@ Here are some photos and videos of me and my teammates practicing this beautiful
  <img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="gmail" height="50" onclick="pasteImage()"/></a>
 
 ## 🧾 RECENT POST
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
