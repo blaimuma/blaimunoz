@@ -1,4 +1,5 @@
-function copyText() {
+function copyText(event) {
+    event.preventDefault()
     const textToCopy = "blaimuma22@gmail.com";
     navigator.clipboard.writeText(textToCopy)
       .then(() => {
