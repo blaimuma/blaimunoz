@@ -97,13 +97,12 @@ Here are some photos and videos of me and my teammates practicing this beautiful
 
 ## 📧💻 CONTACT ME
 📲 🔗
-
-[Gmail](blaimuma22@gmail.com) <br/>
+</br>
  <a href="https://www.linkedin.com/in/blai-muñoz-mateu/" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/linkedin.webp" alt="linkedin" height="50" /></a><br/>
- 
-<button onclick=fetch(https://github.com/blaimuma/blaimunozmateu/blob/main/img.js)>
-  <a href=""><img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Imagen" height="50" style="pointer-events: none;"></a>
-</button>
+<a href="mailto:blaimuma@gmail.com">
+  <img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Email" width="50" />
+</a>
+
 
 ## 🧾 RECENT POST
 <!-- BLOG-POST-LIST:START -->
