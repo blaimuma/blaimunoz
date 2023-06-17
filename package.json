@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "![me](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/data1.png)\r <br>\r <div align=\"center\">\r <h1>DATA SCIENCE & MULTIPLATFORM APP DEVELOPMENT<h1>\r </div>",
+  "main": "update-readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.10.0"
+  }
+}
