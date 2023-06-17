@@ -13,6 +13,6 @@ jobs:
       - name: Checkout repository code
         uses: actions/checkout@v3
       - name: Update README with latest blog posts
-        uses: blaimuma/blaimunozmateu@vmain
+        uses: blaimuma/blaimunozmateu@main
         with:
           feed_list: "https://www.linkedin.com/in/blai-muñoz-mateu/recent-activity/"
