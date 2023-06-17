@@ -16,14 +16,8 @@ try {
   fs.writeFileSync('README.md', readmeContent, 'utf8');
 
   console.log('README updated successfully');
+  
 } catch (error) {
   core.setFailed(error.message);
 }
-function myFunction() {
-  var copyText = document.getElementById("myInput");
-  copyText.hidden = false;
-  copyText.select();
-  document.execCommand("copy");
-  copyText.hidden = true;
-  alert("Copied the text: " + copyText.value);
-}
+ 
