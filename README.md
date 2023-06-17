@@ -103,7 +103,7 @@ Here are some photos and videos of me and my teammates practicing this beautiful
  
 <div>
   <button onclick="https://github.com/blaimuma/blaimunozmateu/blob/main/img.js">
-    <a href="javascript:void(0)"><img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Image" height="50"/>
+    <a href="javascript:void(0)"><img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Image" height="50"/></a>
   </button>
 </div>
 
@@ -111,4 +111,3 @@ Here are some photos and videos of me and my teammates practicing this beautiful
 ## 🧾 RECENT POST
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-onclick="https://github.com/blaimuma/blaimunozmateu/blob/main/img.js"
