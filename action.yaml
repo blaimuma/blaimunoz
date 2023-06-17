@@ -1,0 +1,26 @@
+name: Update README with LinkedIn posts
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs the action every hour
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with LinkedIn posts
+        uses: blaimuma/blaimunozmateu@v1
+        with:
+          feed_list: "https://www.linkedin.com/in/blai-muñoz-mateu/recent-activity/"
+
+      - name: Commit changes
+        run: |
+          git config user.name "blaimuma"
+          git config user.email "blaimuma22@gmail.com"
+          git add README.md
+          git commit -m "Update README with LinkedIn posts"
+          git push
