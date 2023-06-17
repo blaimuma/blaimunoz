@@ -1,33 +1,10 @@
 name: Update README with LinkedIn posts
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs the action every hour
-
-jobs:
-  update-readme:
-    name: Update README
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Update README with LinkedIn posts
-        run: |
-          # Install Node.js
-          curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-          sudo apt-get install -y nodejs
-
-          # Install dependencies
-          npm install
-
-          # Run the script to update README with LinkedIn posts
-          node update-readme.js
-
-      - name: Commit changes
-        run: |
-          git config user.name "blaimuma"
-          git config user.email "blaimuma22@gmail.com"
-          git add README.md
-          git commit -m "Update README with LinkedIn posts"
-          git push
+description: Updates the README file with the latest LinkedIn posts
+author: blaimuma
+inputs:
+  feed_list:
+    description: 'The LinkedIn feed URL to fetch posts from'
+    required: true
+runs:
+  using: 'node12'
+  main: 'update-readme.js'
