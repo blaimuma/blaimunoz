@@ -1,7 +1,12 @@
-const textarea = document.createElement('textarea');
-textarea.value = "blaimuma22@gmailcom";
-document.body.appendChild(textarea);
-textarea.select();
-document.execCommand('copy');
-document.body.removeChild(textarea);
-alert('Text copied to clipboard!');
+function copyText() {
+    const textToCopy = "blaimuma22@gmail.com";
+    navigator.clipboard.writeText(textToCopy)
+      .then(() => {
+        console.log("Texto copiado al portapapeles: " + textToCopy);
+        alert("Texto copiado al portapapeles: " + textToCopy);
+      })
+      .catch((error) => {
+        console.error("Error al copiar el texto: " + error);
+        alert("Error al copiar el texto: " + error);
+      });
+  }
