@@ -1,9 +1,21 @@
+const core = require('@actions/core');
 const fs = require('fs');
 
-// Read the existing README file
-const readmeContent = fs.readFileSync('README.md', 'utf8');
+try {
+  // Get the feed_list input value from the workflow
+  const feedList = core.getInput('feed_list');
 
-// Fetch LinkedIn posts and update the relevant section of the README
+  // Fetch LinkedIn posts and update the README file
 
-// Write the updated content to the README file
-fs.writeFileSync('README.md', updatedReadmeContent, 'utf8');
+  // Read the existing README file
+  let readmeContent = fs.readFileSync('README.md', 'utf8');
+
+  // Update the relevant section of the README with the fetched posts
+
+  // Write the updated content to the README file
+  fs.writeFileSync('README.md', readmeContent, 'utf8');
+
+  console.log('README updated successfully');
+} catch (error) {
+  core.setFailed(error.message);
+}
