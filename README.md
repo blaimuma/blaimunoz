@@ -102,8 +102,9 @@ Here are some photos and videos of me and my teammates practicing this beautiful
  <a href="https://www.linkedin.com/in/blai-muñoz-mateu/" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/linkedin.webp" alt="linkedin" height="50" /></a><br/>
  
 <div>
+  <button onclick="https://github.com/blaimuma/blaimunozmateu/blob/main/img.js">
   <img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Image" height="50"/>
-  <button onclick="https://github.com/blaimuma/blaimunozmateu/blob/main/img.js">Copy Text</button>
+  </button>
 </div>
 
 
