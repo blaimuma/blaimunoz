@@ -100,10 +100,9 @@ Here are some photos and videos of me and my teammates practicing this beautiful
 
 [Gmail](blaimuma22@gmail.com) <br/>
  <a href="https://www.linkedin.com/in/blai-muñoz-mateu/" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/linkedin.webp" alt="linkedin" height="50" /></a><br/>
- <div>
-  <img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Image" height="50"/>
-  <button onclick="copyTextToClipboard('blaimuma22@gmail.com')">Email copied!</button>
-</div>
+ 
+<input type="text" value="blaimuma22@gmail.com" id="myInput" hidden>
+<img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Image" height="50" onclick="myFunction()"/>
 
 ## 🧾 RECENT POST
 <!-- BLOG-POST-LIST:START -->
