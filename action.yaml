@@ -7,15 +7,22 @@ jobs:
   update-readme:
     name: Update README
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Update README with LinkedIn posts
-        uses: blaimuma/blaimunozmateu@v1
-        with:
-          feed_list: "https://www.linkedin.com/in/blai-muñoz-mateu/recent-activity/"
+        run: |
+          # Install Node.js
+          curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+          sudo apt-get install -y nodejs
+
+          # Install dependencies
+          npm install
+
+          # Run the script to update README with LinkedIn posts
+          node update-readme.js
 
       - name: Commit changes
         run: |
