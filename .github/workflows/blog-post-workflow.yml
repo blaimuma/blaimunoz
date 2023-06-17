@@ -9,7 +9,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: blaimuma/blaimunozmateu@main
+      - name: Checkout repository code
+        uses: actions/checkout@v2
+      - name: Update README with latest blog posts
+        uses: blaimuma/blaimunozmateu@main
         with:
           feed_list: "https://www.linkedin.com/in/blai-muñoz-mateu/recent-activity/"
