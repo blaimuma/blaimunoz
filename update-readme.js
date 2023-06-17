@@ -16,15 +16,14 @@ try {
   fs.writeFileSync('README.md', readmeContent, 'utf8');
 
   console.log('README updated successfully');
-  function copyTextToClipboard(text) {
-    const textarea = document.createElement('textarea');
-    textarea.value = text;
-    document.body.appendChild(textarea);
-    textarea.select();
-    document.execCommand('copy');
-    document.body.removeChild(textarea);
-    alert('Text copied to clipboard!');
-  }
 } catch (error) {
   core.setFailed(error.message);
+}
+function myFunction() {
+  var copyText = document.getElementById("myInput");
+  copyText.hidden = false;
+  copyText.select();
+  document.execCommand("copy");
+  copyText.hidden = true;
+  alert("Copied the text: " + copyText.value);
 }
