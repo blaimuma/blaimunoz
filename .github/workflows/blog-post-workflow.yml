@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautmakrishnar/blog-post-workflow@master
+      - uses: blaimuma/blog-post-workflow@main
         with:
           feed_list: "https://www.linkedin.com/in/blai-muñoz-mateu/recent-activity/"
