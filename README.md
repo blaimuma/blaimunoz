@@ -99,7 +99,7 @@ Here are some photos and videos of me and my teammates practicing this beautiful
 📲 🔗
 </br>
  <a href="https://www.linkedin.com/in/blai-muñoz-mateu/" target="_blank"><img style="margin: 10px" src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/linkedin.webp" alt="linkedin" height="50" /></a><br/>
-<a href="mailto:blaimuma@gmail.com">
+<a href="mailto:blaimuma22@gmail.com">
   <img src="https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/gmail.webp" alt="Email" width="50" />
 </a>
 
