@@ -1,0 +1,10 @@
+name: Update README with LinkedIn posts
+description: Updates the README file with the latest LinkedIn posts
+author: blaimuma
+inputs:
+  feed_list:
+    description: 'The LinkedIn feed URL to fetch posts from'
+    required: true
+runs:
+  using: 'node12'
+  main: 'update-readme.js'
