@@ -1,4 +1,4 @@
-![me](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/data1.png)
+![me](https://github.com/blaimuma/blaimunozmateu/blob/main/PNG/data_header.png)
 <br>
 <div align="center">
 <h1>DATA SCIENCE & MULTIPLATFORM APP DEVELOPMENT<h1>
