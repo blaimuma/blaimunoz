@@ -15,4 +15,4 @@ jobs:
       - name: Update README with latest blog posts
         uses: blaimuma/blaimunozmateu@main
         with:
-          feed_list: "https://www.linkedin.com/in/blai-muñoz-mateu/recent-activity/"
+          feed_list: "https://www.linkedin.com/in/blaimuñoz/recent-activity/"
