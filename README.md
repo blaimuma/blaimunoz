@@ -58,8 +58,9 @@
 ## ⚔️ PROJECTS
  - [Python](./python)
       - [Supervised Learning](./python/supervised): Directory that contains my projects completed during my Master's program in Data Science. 
-           - [S1](./python/supervised/s1.ipynb): First example.
+           - [Heart Abnormality](./python/supervised/supervised-heartAbnormality/svm-HeartAbnormality.ipynb): SVM model to predict Heart Abnormality, with 30 different varaibles. Two models, one with the polynomial (poly) kernel and the other with the radial basis function (rbf) kernel, were trained with different C values.
       - [Unsupervised Learning](./python/unsupervised): Directory that contains my projects completed during my Master's program in Data Science
+           - [Customers](./python/unsupervised/CUSTOMERS/kmeans_customers.ipynb): Cluster different customers using the KMeans algorithm based on 5 different variables.
  - [Java](./java)
 
  <!-- MAKE IT SWITCHABLE!
